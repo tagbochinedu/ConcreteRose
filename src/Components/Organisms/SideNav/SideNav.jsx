@@ -89,7 +89,7 @@ const SideNav = ({ sidebar, onClick }) => {
           }}
         >
           <button className=" text-white px-4 py-3 rounded-full bg-indigo-600 hover:bg-indigo-500 transition-all ease-in-out duration-300">
-            <a href="">Create Account</a>
+          Create Account
           </button>
         </NavLink>
       </ul>
